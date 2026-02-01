@@ -4,9 +4,6 @@
 
 <h1 align="center">Project Name</h1>
 
-<p align="center">
-  Short, clear one-line description of what your project does.
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3.10+-blue.svg"/>
