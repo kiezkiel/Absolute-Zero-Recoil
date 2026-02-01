@@ -69,11 +69,13 @@ https://github.com/yourusername/yourrepo/raw/main/assets/demo.mp4
 - Python **3.12+**
 
 ---
+## Yolo Model
+- Yolo **Yolov8n**
 
+---
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/yourrepo.git
-cd yourrepo
-pip install -r requirements.txt
+Python <filename>
+
 
