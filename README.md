@@ -28,13 +28,10 @@ https://github.com/yourusername/yourrepo/raw/main/assets/demo.mp4
 ## Features
 - 🔹 Weapon and scope to slot mapping
 - 🔹 AI Companion
-- 🔹 Aim Precision
-- 🔹 Recoil Stabilization
-- 🔹 Weapon Auto cycle
 - 🔹 Weapon Presets
 - 🔹 Agent Communication Pipeline
 - 🔹 No Fps drops
-- 🔹 Rapid Fire 
+
 
 
 ---
