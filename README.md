@@ -42,6 +42,21 @@ OR use a GIF:
 - 🔹 Extendable design
 
 ---
+---
+
+## 📊 Model Test Results
+
+**Evaluation on Test Dataset**
+
+<p align="center">
+  <img src="Test%20Result/BoxF1_curve.png" width="45%"/>
+  <img src="Test%20Result/BoxP_curve" width="45%"/>
+</p>
+
+<p align="center">
+  <img src="Test%20Result/confusion_matrix.png" width="500"/>
+</p>
+
 
 ## 🐍 Python Version
 - Python **3.12+**
@@ -54,3 +69,4 @@ OR use a GIF:
 git clone https://github.com/yourusername/yourrepo.git
 cd yourrepo
 pip install -r requirements.txt
+
