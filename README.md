@@ -2,7 +2,7 @@
   <img src="assets/banner.png" width="900" alt="Project Banner"/>
 </p>
 
-<h1 align="center">Project Name</h1>
+<h1 align="center">Smart Zero Recoil</h1>
 
 
 <p align="center">
@@ -44,6 +44,8 @@ https://github.com/yourusername/yourrepo/raw/main/assets/demo.mp4
 <p align="center">
   <img src="Test%20Results/BoxF1_curve.png" width="45%"/>
   <img src="Test%20Results/confusion_matrix_normalized.png" width="45%"/>
+  <img src="Test%20Results/confusion_matrix.png" width="45%"/>
+  <img src="Test%20Results/labels.jpg" width="45%"/>
 </p>
 
 <p align="center">
