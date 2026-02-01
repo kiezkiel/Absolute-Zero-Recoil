@@ -46,7 +46,7 @@ https://github.com/yourusername/yourrepo/raw/main/assets/demo.mp4
 
 <p align="center">
   <img src="Test%20Results/BoxF1_curve.png" width="45%"/>
-  <img src="Test%20Results/BoxP_curve" width="45%"/>
+  <img src="Test%20Results/confusion_matrix_normalized.png" width="45%"/>
 </p>
 
 <p align="center">
