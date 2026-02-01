@@ -26,11 +26,7 @@ Example:
 
 https://github.com/yourusername/yourrepo/raw/main/assets/demo.mp4
 
-OR use a GIF:
 
-<p align="center">
-  <img src="assets/demo.gif" width="800"/>
-</p>
 
 ---
 
@@ -49,7 +45,7 @@ OR use a GIF:
 **Evaluation on Test Dataset**
 
 <p align="center">
-  <img src="Test%20Result/BoxF1_curve.png" width="45%"/>
+  <img src="Test%20Results/BoxF1_curve.png" width="45%"/>
   <img src="Test%20Result/BoxP_curve" width="45%"/>
 </p>
 
