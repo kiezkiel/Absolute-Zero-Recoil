@@ -47,7 +47,7 @@ OR use a GIF:
 ---
 
 ## 🐍 Python Version
-- Python **3.10+**
+- Python **3.12+**
 
 ---
 
