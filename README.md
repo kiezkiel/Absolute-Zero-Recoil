@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="assets/banner.png" width="900" alt="Project Banner"/>
-</p>
 
-<h1 align="center">Smart Zero Recoil</h1>
+
+<h1 align="center">Smart Zero Recoil Beta</h1>
 
 
 <p align="center">
@@ -28,11 +26,16 @@ https://github.com/yourusername/yourrepo/raw/main/assets/demo.mp4
 ---
 
 ## Features
-- 🔹 Clean and modular architecture
-- 🔹 Fast execution
-- 🔹 CLI support
-- 🔹 Easy configuration
-- 🔹 Extendable design
+- 🔹 Weapon and scope to slot mapping
+- 🔹 AI Companion
+- 🔹 Aim Precision
+- 🔹 Recoil Stabilization
+- 🔹 Weapon Auto cycle
+- 🔹 Weapon Presets
+- 🔹 Agent Communication Pipeline
+- 🔹 No Fps drops
+- 🔹 Rapid Fire 
+
 
 ---
 ---
