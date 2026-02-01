@@ -13,11 +13,8 @@
 
 ---
 
-## 🚀 Overview
-Explain **what the project is**, **why it exists**, and **who it’s for**.
-
-Example:
-> This project is a fast, modular Python tool for automating data processing pipelines with a clean CLI interface and extensible architecture.
+## Overview
+Smart Ai weapon detection 
 
 ---
 
@@ -30,7 +27,7 @@ https://github.com/yourusername/yourrepo/raw/main/assets/demo.mp4
 
 ---
 
-## ✨ Features
+## Features
 - 🔹 Clean and modular architecture
 - 🔹 Fast execution
 - 🔹 CLI support
@@ -40,7 +37,7 @@ https://github.com/yourusername/yourrepo/raw/main/assets/demo.mp4
 ---
 ---
 
-## 📊 Model Test Results
+## Model Test Results
 
 **Evaluation on Test Dataset**
 
@@ -54,12 +51,12 @@ https://github.com/yourusername/yourrepo/raw/main/assets/demo.mp4
 </p>
 
 
-## 🐍 Python Version
+## Python Version
 - Python **3.12+**
 
 ---
 
-## 📦 Installation
+## Installation
 
 ```bash
 git clone https://github.com/yourusername/yourrepo.git
