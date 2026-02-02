@@ -16,15 +16,6 @@ Smart Ai weapon detection
 
 ---
 
-## 🎥 Demo
-> (GitHub will auto-embed this)
-
-https://github.com/yourusername/yourrepo/raw/main/assets/demo.mp4
-
-
-
----
-
 ## Features
 - 🔹 Weapon and scope to slot mapping
 - 🔹 AI Companion
